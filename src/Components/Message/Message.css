@@ -1,0 +1,42 @@
+.parentCard{
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    background-color: white;
+    border-radius: 10px 10px 0px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+   
+}
+.chat-bubble__right{
+    margin-right: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+.user-name{
+    font-size: 15px;
+    padding: 0px;
+    margin: 0px;
+
+}
+.user-message{
+    font-size : 22px;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.chat-bubble__left{
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+
+}

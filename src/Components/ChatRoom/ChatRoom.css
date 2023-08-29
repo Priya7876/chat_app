@@ -1,0 +1,13 @@
+.messages-wrapper{
+    height: 600px;
+    width: 100%;
+    display: flex;
+   
+    flex-direction: column;
+    align-items: flex-end;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-bottom: 10px;
+    
+   
+}

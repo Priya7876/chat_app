@@ -1,0 +1,29 @@
+.send-message{
+    width : 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-self: flex-end;
+  
+    background-color: hsl(195, 82%, 44%);
+    
+}
+
+.form-input__input{
+    width: 100%;
+    height: 50px;
+    margin-left: 10px;
+    border-radius: 10px;
+    font-size: 22px;
+}
+.button1{
+    width: 150px;
+    align-content: center;
+    justify-content: center;
+    margin-left:10px;
+    border-radius: 5px;
+    height: 50px;
+    padding: 25px;
+}
